@@ -1,0 +1,15 @@
+﻿  glad.c
+  LUT.cpp
+c:\users\mmeri\onedrive\desktop\a1\assignment1_lightcorrection\blackjack_core (redesign)\lut.cpp(24): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::c_str': non-standard syntax; use '&' to create a pointer to member
+c:\users\mmeri\onedrive\desktop\a1\assignment1_lightcorrection\blackjack_core (redesign)\lut.cpp(29): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+c:\users\mmeri\onedrive\desktop\a1\assignment1_lightcorrection\blackjack_core (redesign)\lut.cpp(30): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+  main.cpp
+c:\users\mmeri\onedrive\desktop\a1\assignment1_lightcorrection\blackjack_core (redesign)\main.cpp(170): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mmeri\onedrive\desktop\a1\assignment1_lightcorrection\blackjack_core (redesign)\main.cpp(126): warning C4101: 'tex_toon': unreferenced local variable
+c:\users\mmeri\onedrive\desktop\a1\assignment1_lightcorrection\blackjack_core (redesign)\main.cpp(397): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mmeri\onedrive\desktop\a1\assignment1_lightcorrection\blackjack_core (redesign)\main.cpp(400): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mmeri\onedrive\desktop\a1\assignment1_lightcorrection\blackjack_core (redesign)\main.cpp(401): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mmeri\onedrive\desktop\a1\assignment1_lightcorrection\blackjack_core (redesign)\main.cpp(402): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mmeri\onedrive\desktop\a1\assignment1_lightcorrection\blackjack_core (redesign)\main.cpp(407): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  STB.cpp
+  Generating Code...
